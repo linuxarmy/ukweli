@@ -12,7 +12,7 @@ description: Ukweli is a Developer community based in Rwada
 
 
 
-baseurl: "/cards" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ukweli.co" # the base hostname & protocol for your site
 
 #sidebar
@@ -53,3 +53,6 @@ sass:
 
 # Ruby Gems
 gems: [jekyll-paginate, jekyll-seo-tag]
+
+# exlude
+exclude: ['README.md']
