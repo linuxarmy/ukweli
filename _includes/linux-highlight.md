@@ -8,9 +8,9 @@
 <article>
 <div class="links-to-presentation">
 <ul class="list-inline">
-<li><a href="{{site.github.url}}/linux"><button class="btn button-primary"> Reveal View </button></a> </li>
-<li><button class="btn button-primary"> PDF </button> </li>
-<li><button class="btn button-primary"> Go to Ukweli </button> </li>
+<li><a href="{{site.github.url}}/linux"><button class="btn button-primary"> View Presentation </button></a> </li>
+<!-- <li><button class="btn button-primary"> PDF </button> </li>
+<li><button class="btn button-primary"> Go to Ukweli </button> </li> -->
 </ul>
 </div>
 </article>
